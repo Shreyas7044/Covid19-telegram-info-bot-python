@@ -59,7 +59,7 @@ You will get live Global COVID-19 report.
 ---
 
 ## 📸 Application Screenshot
-![Application Screenshot](Python-3d-video-matplotlib/screenshot.png)
+![Application Screenshot](Covid19-telegram-info-bot-python/screenshot.png)
 
 ---
 

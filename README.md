@@ -24,7 +24,7 @@ COVID-19 Telegram Bot built using Python that fetches real-time Global COVID-19 
 
 ## 🚀 How the Bot Works
 The bot sends a request to:
-https://api.covid19api.com/summary  
+api.covid19api.com
 It receives live COVID-19 summary data in JSON format, extracts the Global statistics, and sends it as a Telegram message.
 
 ---
